@@ -1,0 +1,32 @@
+We have problems, solutions, questions, and answers in code.
+
+When looking for help we have many options:
+	google, cplusplus.org, jen's slides, old code examples, other students, TA's,
+	jennifer, the book, stack overflow, youtube, etc.
+
+Google how to's:
+	put importance from high to low for words in your search:
+		c++ edit a file
+		NOT edit a file c++
+
+	also adding "solved" to the end will help:
+		c++ edit a file solved
+
+	Adding quotes around a block of text will make it search all together:
+		c++ "edit a file" solved
+
+	To exclude a search result, add a dash:
+		c++ "edit a file" solved -C
+
+
+Look up how to use EOF
+
+movie type;
+	while(!EOF) {
+		iostream.get(tmp.index, 256, '|');
+		//get rating
+		//get title
+
+		if(!strcmp(tmp.time, t)
+			print tmp;
+	}
